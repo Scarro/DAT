@@ -1,0 +1,18 @@
+clase DAT 
+
+CursosWeb(github)
+
+directorio donde entregar
+        x-Nav-JS-sumador (ruta de un archivo por ejemplo sumador)
+        
+        hacemos fork -> clonamos el nuevo y trabajamos en el.
+        (git clone) y (git push) para subir, (git commit antes) (git add antes)
+        origin master = permiso absoluto, tu posees el original
+flujo
+  -  hacer fork
+  -  git clone (del fork(es nuestra copia en github de nuestro repositorio)
+  -  git add -> de lo que queremos que se suba
+  -  luego editamos y hacemos la practica, cuando pensemos que está terminada
+  -  git commit (quizas hagas varios de lo que vas modificando)
+  -  git push
+    

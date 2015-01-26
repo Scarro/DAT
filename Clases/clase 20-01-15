@@ -1,0 +1,18 @@
+JAVASCRIPT
+----------------------
+1 - En javascript, para que algo se ejecute, ponle un paréntesis delante de la función (dentro por ejemplo del HTML).
+2 - Cuando no hay parámentros, acepta un número indeterminado de los mismos
+3 - dependiendo de si la función tiene o no nombre es ánonima o no
+4 - var son variables de ámbito local, no global
+
+Código javascript Stupid sentences generator
+- var words es una variable local -lista de listas ([])
+- getElementByid da un puntero al elemento de id sentence, (Un árbol dom es una colección de punteros.
+- newwords es una lista vacía
+- rellenado de newwords con palabras de manera aleatoria
+- en sentence.innerHTML cambio el dom
+
+TRANSPARENCIAS
+sort(function(a,b){...}(1,2)) ==> que da?
+en javascript se puede pasar la función o el resultado de la función
+
